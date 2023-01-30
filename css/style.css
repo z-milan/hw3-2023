@@ -1,0 +1,108 @@
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #ffffff;
+}
+
+body {
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px 0px 0px 10px;
+
+}
+
+footer {
+    background: #000000;
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    border: 5px solid #ffffff;
+}
+
+img {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dashed #ffffff;
+}
+
+h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+.introduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+.red {
+    background-color: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+}
+
+.blue {
+    background-color: #0000ff;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;    
+}
+
+div.blue h2 {
+    color: #C4C4C4
+}
+
+div.blue p {
+    color: #C4C4C4;
+}
+
+.yellow {
+    background-color: #ffff00;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+}
+
+div.yellow p {
+    color: #707070;
+}
+
+.green {
+    background-color: #008500;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;
+
+}
+
+footer p {
+    text-align: right;
+    font-size: 20px;
+    padding: 15px 15px 15px 0px;
+}
+
+
+
+
+
+
+
+
+
+
